@@ -3,6 +3,9 @@
   --main-color: light-dark(#1F2128, white);
   --border-color: light-dark(#EEEEEE, white);
   --container-background: light-dark(white, #3d3d3d);
+
+  --color-toggle-light: yellow;
+  --color-toggle-dark: rgb(139, 139, 139);
 }
 
 :root {
