@@ -5,9 +5,7 @@ function ColorScheme() {
         <div className="flex justify-center my-20 gap-3">
             Dark Mode Setting:
             <label>
-                <input name="color-scheme" type="radio" value="light dark" checked /> System</label>
-            <label>
-                <input name="color-scheme" type="radio" value="light" /> Light</label>
+                <input name="color-scheme" type="radio" value="light" checked /> Light</label>
             <label>
                 <input name="color-scheme" type="radio" value="dark" /> Dark</label>
         </div>
